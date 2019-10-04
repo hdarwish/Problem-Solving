@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "browse": {
+                "path": [
+                    "${workspaceFolder}",
+                    "C:\\Users\\DarwishH\\AppData\\Local\\Programs\\MINGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++"
+                ]
+            },
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "intelliSenseMode": "msvc-x64"
+        }
+    ],
+    "version": 4
+}
