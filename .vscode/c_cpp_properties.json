@@ -16,7 +16,7 @@
                 "UNICODE",
                 "_UNICODE"
             ],
-            "intelliSenseMode": "msvc-x64"
+            "intelliSenseMode": "${default}"
         }
     ],
     "version": 4
