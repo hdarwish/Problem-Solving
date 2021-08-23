@@ -16,7 +16,8 @@
                 "UNICODE",
                 "_UNICODE"
             ],
-            "intelliSenseMode": "${default}"
+            "intelliSenseMode": "${default}",
+            "compilerPath": "/usr/bin/clang++"
         }
     ],
     "version": 4
